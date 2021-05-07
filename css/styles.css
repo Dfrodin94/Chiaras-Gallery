@@ -1,5 +1,8 @@
 
 /* Container  */
+body {
+    background-color: #f6dcbf;
+}
 
 .container-fluid{
   padding: 2% 15%;
